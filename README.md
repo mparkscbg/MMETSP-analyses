@@ -1,2 +1,2 @@
 # MMETSP-analyses
-Collection of information used in phylo-transcriptome analyses of MMETSP diatom RNAseq data.
+Collection of information used in phylo-transcriptomic analyses of MMETSP diatom RNAseq data.
